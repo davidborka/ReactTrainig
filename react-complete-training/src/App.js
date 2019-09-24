@@ -6,6 +6,7 @@ class App extends Component{
     return(
     <div className="App">
       <h1>Hi, I'm a React App</h1>
+      <p>This is a paragraph from the same root element.</p>
     </div>
     );
   }
